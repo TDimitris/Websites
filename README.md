@@ -10,4 +10,4 @@ A static HTML website about my local Go Kart track in Agrinio, Greece.
 
  A static HTML website about an automobile repair shop in Agrinio, Greece.
 
- `<link>` : <https://betsavas.gr//>
+ `<link>` : <https://betsavas.gr/>
